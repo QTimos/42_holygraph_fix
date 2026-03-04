@@ -3,6 +3,9 @@
   "name": "42_holygraph_fix",
   "version": "1.0",
   "description": "Fixing the b2br and push_swap and exam_02 projects in the holygraph.",
+  "icons": {
+	  "48": "icons/icon-42.png"
+  },
 
   "permissions": [
     "webRequest",
