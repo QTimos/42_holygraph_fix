@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "42_holygraph_fix",
+  "version": "1.0",
+  "description": "Fixing the b2br and push_swap and exam_02 projects in the holygraph.",
+
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://projects.intra.42.fr/*"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
